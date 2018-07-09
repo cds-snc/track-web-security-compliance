@@ -1,3 +1,13 @@
-The homepage content can be edited as markdown in _includes/index.html or directly within the index.html file.
+*Track web security compliance* is a web-based application that scans Government of Canada websites and web services and reports on their web security. The application can be found at [https.canada.ca](https://https.canada.ca).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+*Track web security compliance* is an open source application in the public domain adapted by the [Canadian Digital Service](https://digital.canada.ca) from [18F](https://18f.gsa.gov/)’s project [Pulse](https://pulse.cio.gov/https/domains/).
+
+This tool is currently available for Government of Canada employees. This is what it looks like with demo data:
+
+![landing page](/assets/img/en-landing.png)
+
+*Landing page - demo data*
+
+![dashboard](/assets/img/en-dashboard.png)
+
+*Table - demo data*
