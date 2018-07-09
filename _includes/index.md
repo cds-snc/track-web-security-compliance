@@ -4,10 +4,10 @@
 
 This tool is currently available for Government of Canada employees. This is what it looks like with demo data:
 
-![landing page](/assets/img/en-landing.png)
+![landing page]({{ site.baseurl }}/assets/img/en-landing.png)
 
 *Landing page - demo data*
 
-![dashboard](/assets/img/en-dashboard.png)
+![dashboard]({{ site.baseurl }}/assets/img/en-dashboard.png)
 
 *Table - demo data*
