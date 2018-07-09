@@ -17,7 +17,7 @@ subtitle: Making government websites more secure
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/project-name'
+baseurl: '/track-web-security-compliance'
 
 # Author/Organization info to be displayed in the templates
 author:
