@@ -27,7 +27,7 @@ There are two individual repositories that make up *Track web security complianc
 
 This repository holds the domain scanning tool and produces the data that fills the table. The scanning tool measures the behaviour of four “endpoints” of every domain and subdomain: `http://`, `http://www`, `https://`, and `https://www`. Data from these endpoints is used to characterize the overall behaviour of a domain or subdomain. These measurements are performed using [domain-scan](https://github.com/18F/domain-scan), a Python-based open source tool maintained by the U.S. General Services Administration. Domain-scan is used to efficiently coordinate and parallelize [pshtt](https://github.com/dhs-ncats/pshtt), [sslyze](https://github.com/nabla-c0d3/sslyze), and other tools for large batch scans.
 
-The [tracker](https://github.com/cds-snc/tracker) repository contains further documentation on:
+The *[tracker](https://github.com/cds-snc/tracker/tree/master/docs)* repository contains further documentation on:
 * Input and output data definitions
 * How domains and subdomains are matched to domain owners
 * Basics for setting up lambda scanners for massively parallel scanning
@@ -38,7 +38,7 @@ The [tracker](https://github.com/cds-snc/tracker) repository contains further do
 
 This repository holds the Flask app. Track-web takes the output of the domain scanning tool and displays the results in tables and charts on *Track web security compliance*.
 
-The [track-web](https://github.com/cds-snc/track-web) repository contains further documentation on:
+The *[track-web](https://github.com/cds-snc/track-web/tree/master/docs)* repository contains further documentation on:
 
 * How to create additional web pages, styles, charts, and datatables
 * How to add Google Analytics and track events (download and filter events are built-in)
