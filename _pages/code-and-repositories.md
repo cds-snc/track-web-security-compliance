@@ -30,13 +30,13 @@ This repository holds the domain scanning tool and produces the data that fills 
 The *[tracker](https://github.com/cds-snc/tracker/tree/master/docs)* repository contains further documentation on:
 * Input and output data definitions
 * How domains and subdomains are matched to domain owners
-* Basics for setting up lambda scanners for massively parallel scanning
+* Basics for setting up Lambda scanners for massively parallel scanning
 * How to edit existing components or add new components to the scanning system
 * How to deploy locally
 
 **[track-web](https://github.com/cds-snc/track-web)**
 
-This repository holds the Flask app. Track-web takes the output of the domain scanning tool and displays the results in tables and charts on *Track web security compliance*.
+This repository holds the Flask app. *Track-web* takes the output of the domain scanning tool and displays the results in tables and charts on *Track web security compliance*.
 
 The *[track-web](https://github.com/cds-snc/track-web/tree/master/docs)* repository contains further documentation on:
 
