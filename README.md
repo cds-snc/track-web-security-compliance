@@ -1,6 +1,6 @@
 # Track web security compliance documentation
 
-*Track web security compliance* is a web-based application that scans Government of Canada websites and web services and reports on their web security. The application is currently available for Government of Canada employees and can be found at [https.canada.ca](https://https.canada.ca). This repository contains companion documentation for the project and can be viewed at [https://cds-snc.github.io/track-web-security-compliance](https://cds-snc.github.io/track-web-security-compliance).
+*Track web security compliance* is a web-based application that scans Government of Canada websites and web services and reports on their web security. The application is currently available for Government of Canada employees and can be found at [https-everywhere.canada.ca](https://https.canada.ca). This repository contains companion documentation for the project and can be viewed at [https://cds-snc.github.io/track-web-security-compliance](https://cds-snc.github.io/track-web-security-compliance).
 
 ## Editing the documentation
 
