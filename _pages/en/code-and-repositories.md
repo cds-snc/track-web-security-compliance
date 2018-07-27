@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Code and repositories"
+lang: en
 permalink: "/code-and-repositories/"
 ---
 

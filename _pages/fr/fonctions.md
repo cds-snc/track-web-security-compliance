@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Fonctions"
+lang: fr
 permalink: "/fonctions/"
 ---
 La principale fonction de Track web security compliance est un tableau qui indique de quelle manière les sites Web et les services Web du gouvernement fédéral respectent les bonnes pratiques en matière de sécurité. Chaque colonne indique la conformité avec un article de la [direction de l’AMPTI 2018-01](https://www.canada.ca/fr/secretariat-conseil-tresor/services/technologie-information/avis-mise-oeuvre-politique/mise-oeuvre-https-connexions-web-securisees-ampti.html#toc6). Les voici :

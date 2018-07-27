@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Background"
+lang: en
 permalink: "/background/"
 ---
 

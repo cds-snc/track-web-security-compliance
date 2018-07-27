@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Coordonnées"
+lang: fr
 permalink: "/coordonnees/"
 ---
 

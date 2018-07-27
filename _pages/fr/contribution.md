@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Contribution et source ouverte"
+lang: fr
 permalink: "/contribution/"
 ---
 

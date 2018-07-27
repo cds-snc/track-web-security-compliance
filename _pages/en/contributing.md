@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Contributing and open source"
+lang: en
 permalink: "/contributing/"
 ---
 
