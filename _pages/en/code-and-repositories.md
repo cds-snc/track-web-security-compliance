@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Code and repositories"
+permalink: "/code-and-repositories/"
 ---
 
 ## How *Track web security compliance* works

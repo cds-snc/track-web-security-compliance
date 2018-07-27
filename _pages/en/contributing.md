@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Contributing and open source"
+permalink: "/contributing/"
 ---
 
 *Track web security compliance* is an open source project with contributions from individuals and Government of Canada departments. We invite contributions to any part of the application, from people inside and outside government.
