@@ -31,28 +31,6 @@ author2:
 logourl:
 logoalt:
 
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-- text: Home
-  url: ./
-  internal: true
-- text: Background
-  url: background/
-  internal: true
-- text: Features
-  url: features/
-  internal: true
-- text: Code and repositories
-  url: code-and-repositories/
-  internal: true
-- text: Contributing and open source
-  url: contributing/
-  internal: true
-- text: Contact
-  url: contact/
-  internal: true
-
 
 # Repo list
 # List repos that you would like to appear on the homepage here

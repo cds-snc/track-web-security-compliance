@@ -1,0 +1,14 @@
+en:
+- name: track-web
+  description: Report results
+  url: https://github.com/cds-snc/track-web
+- name: tracker
+  description: Scan domains
+  url: https://github.com/cds-snc/tracker
+fr:
+- name: track-web
+  description: Rapport des résultats
+  url: https://github.com/cds-snc/track-web
+- name: tracker
+  description: Analyse des domaines
+  url: https://github.com/cds-snc/tracker
