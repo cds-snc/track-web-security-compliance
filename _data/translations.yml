@@ -11,6 +11,7 @@ en:
   learn-more: "Learn more about the repositories in"
   code-and-repo: "Code and repositories"
   code-and-repo-slug: "/code-and-repositories/"
+  language: "Français"
 fr:
   homepage-tag-line: "Rendre les sites Web du gouvernement plus sécurisés"
   cds-snc: "Service numérique canadien"
@@ -24,3 +25,4 @@ fr:
   learn-more: "Apprenez-en davantage sur les référentiels dans"
   code-and-repo: "Codes et référentiels"
   code-and-repo-slug: "/codes-et-referentiels/"
+  language: "English"
