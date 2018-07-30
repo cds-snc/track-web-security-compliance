@@ -6,24 +6,27 @@ permalink: "/codes-et-referentiels/"
 trans_url: "/code-and-repositories/"
 ---
 
-##  Comment *Track web security compliance* fonctionne
+##  Comment *Suivre la conformité en matière de sécurité Web* fonctionne
 
 **Données**
-Track security web compliance évalue actuellement les sous-domaines `.gc.ca` et `.canada.ca` qui sont accessibles au public sur HTTP. Ces domaines et sous-domaines sont fournis par le Bureau de la transformation numérique du SCT.
+
+*Suivre la conformité en matière de sécurité Web* évalue actuellement les sous-domaines `.gc.ca` et `.canada.ca` qui sont accessibles au public sur HTTP. Ces domaines et sous-domaines sont fournis par le Bureau de la transformation numérique du SCT.
 
 **Architecture**
+
 Ce produit comprend trois parties : un scanneur de domaine qui analyse une liste des domaines et analyse leur comportement (*tracker*), une instance Cosmos DB qui héberge les résultats de l’analyse, et une application Web qui affiche les résultats (*track-web*).
 
 **Pile**
+
 *tracker* est rédigée pour Python 3.5 et versions suivantes.
 
 *track-web* est une application Flask rédigée pour Python 3.6 et les versions suivantes.
 
-**Référentiels**
+## Référentiels
 
-Il existe deux référentiels individuels qui composent *Track web security compliance*.
+Il existe deux référentiels individuels qui composent *Suivre la conformité en matière de sécurité Web*.
 
-**[tracker](https://github.com/cds-snc/tracker)
+**[tracker](https://github.com/cds-snc/tracker)**
 
 Ce référentiel détient l’outil d’analyse de domaine et produit les données qui remplissent le tableau. L’outil d’analyse évalue le comportement des quatre « points d’extrémité » de chaque domaine et sous-domaine : `http://`, `http://www`, `https://` et `https://www`. Les données provenant de ces points d’extrémité permettent de qualifier le comportement global d’un domaine ou sous-domaine. Ces mesures sont effectuées à l’aide de [domain-scan](https://github.com/18F/domain-scan), un outil de source libre fondé sur Python et tenu à jour par la General Services Administration des États-Unis. Domain-scan permet de coordonner et de mettre en parallèle efficacement [pshtt](https://github.com/dhs-ncats/pshtt), [sslyze](https://github.com/nabla-c0d3/sslyze), et d’autres outils pour les grandes analyses de lots.
 
@@ -36,7 +39,7 @@ Le référentiel *[tracker](https://github.com/cds-snc/tracker/tree/master/docs)
 
 **[track-web](https://github.com/cds-snc/track-web)**
 
-Ce référentiel comprend l’appli Flask. *Track-web* prend la sortie de l’outil d’analyse de domaine et affiche les résultats dans des tableaux et des graphiques dans *Track web security compliance*.
+Ce référentiel comprend l’appli Flask. *Track-web* prend la sortie de l’outil d’analyse de domaine et affiche les résultats dans des tableaux et des graphiques dans *Suivre la conformité en matière de sécurité Web*.
 
 Le référentiel *[track-web](https://github.com/cds-snc/track-web/tree/master/docs)* contient d’autres documents concernant :
 

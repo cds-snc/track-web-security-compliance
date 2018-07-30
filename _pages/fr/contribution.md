@@ -6,13 +6,13 @@ permalink: "/contribution/"
 trans_url: "/contributing/"
 ---
 
-*Track web security compliance* est un projet de source ouverte avec les contributions des personnes et des ministères du gouvernement du Canada. Nous invitons les contributions à n’importe quelle partie de l’application, de la part des personnes à l’intérieur et à l’extérieur du gouvernement.
+*Suivre la conformité en matière de sécurité Web* est un projet de source ouverte avec les contributions des personnes et des ministères du gouvernement du Canada. Nous invitons les contributions à n’importe quelle partie de l’application, de la part des personnes à l’intérieur et à l’extérieur du gouvernement.
 
 ## Domaine public
 
-*Track web security compliance* se trouve dans le domaine public, et les droits d’auteur et les droits connexes dans le travail dans le monde sont dispensés au moyen de [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+*Suivre la conformité en matière de sécurité Web* se trouve dans le domaine public, et les droits d’auteur et les droits connexes dans le travail dans le monde sont dispensés au moyen de [CC0 1.0 universel transfert dans le domaine public](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
 
-Toutes les contributions à ce projet seront divulguées dans le cadre de CC0 dedication. En présentant une demande de retrait, vous vous engagez à respecter cette renonciation aux intérêts de droits d’auteur.
+Toutes les contributions à ce projet seront divulguées dans le cadre de CC0. En présentant une demande de retrait, vous vous engagez à respecter cette renonciation aux intérêts de droits d’auteur.
 
 ## Avis de marque de commerce
 
