@@ -12,6 +12,7 @@ en:
   code-and-repo: "Code and repositories"
   code-and-repo-slug: "/code-and-repositories/"
   language: "Français"
+  homepage-slug: "/home/"
 fr:
   homepage-tag-line: "Rendre les sites Web du gouvernement plus sécurisés"
   cds-snc: "Service numérique canadien"
@@ -26,3 +27,4 @@ fr:
   code-and-repo: "Codes et référentiels"
   code-and-repo-slug: "/codes-et-referentiels/"
   language: "English"
+  homepage-slug: "/accueil/"
