@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Codes et referentiels"
+title:  "Codes et référentiels"
 lang: fr
 permalink: "/codes-et-referentiels/"
 ---
